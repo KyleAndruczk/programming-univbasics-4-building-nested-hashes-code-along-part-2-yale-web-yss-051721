@@ -68,7 +68,7 @@ def add_characters
   apothecary = { name: "Apothecary" }
   
   epic_tragedy << prince
-  epic_tragedy << person
+  epic_tragedy << apothecary
 
 
 
