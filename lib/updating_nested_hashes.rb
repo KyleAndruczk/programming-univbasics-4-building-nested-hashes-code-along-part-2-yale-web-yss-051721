@@ -66,6 +66,9 @@ def add_characters
   
   epic_dude = { name: "Epic Dude" }
   person = { name: "Person" }
+  
+  epic_tragedy << epic_dude
+  epic_tragedy << person
 
 
 
